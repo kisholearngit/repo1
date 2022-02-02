@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 8892-BF9C
+
+ Directory of F:\E-vis\Learn Git
+
+02/02/2022  12:57 PM    <DIR>          .
+02/02/2022  12:57 PM    <DIR>          ..
+02/02/2022  12:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  662,397,366,272 bytes free
